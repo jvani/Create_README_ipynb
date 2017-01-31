@@ -63,7 +63,7 @@ class GenerateREADME():
 
 def main():
     root = Tk()
-    my_gui = GenerateREADME(root)
+    GenerateREADME(root)
     root.mainloop()
 
 if __name__ == '__main__':
